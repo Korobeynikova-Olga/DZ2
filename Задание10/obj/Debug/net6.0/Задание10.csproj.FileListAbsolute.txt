@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#\DZ2\Задание10\bin\Debug\net6.0\Задание10.exe
+C:\Users\User\Desktop\c#\DZ2\Задание10\bin\Debug\net6.0\Задание10.deps.json
+C:\Users\User\Desktop\c#\DZ2\Задание10\bin\Debug\net6.0\Задание10.runtimeconfig.json
+C:\Users\User\Desktop\c#\DZ2\Задание10\bin\Debug\net6.0\Задание10.dll
+C:\Users\User\Desktop\c#\DZ2\Задание10\bin\Debug\net6.0\Задание10.pdb
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\Задание10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\Задание10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\Задание10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\Задание10.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\Задание10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\Задание10.dll
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\refint\Задание10.dll
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\Задание10.pdb
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\Задание10.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\DZ2\Задание10\obj\Debug\net6.0\ref\Задание10.dll
